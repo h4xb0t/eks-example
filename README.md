@@ -1,2 +1,2 @@
 # eks-example
-eks-example for AWS course
+Application image repository for lab 3
